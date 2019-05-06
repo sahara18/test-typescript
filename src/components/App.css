@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App label {
+  display: block;
+}
+
+.App label.done {
+  text-decoration: line-through;
+}
